@@ -26,3 +26,5 @@ Features:
    – For showing the generated password JButton 
    – Trigger password generation GridLayout and BorderLayout 
    – For organizing layout -UI is created and updated using the Event Dispatch Thread (SwingUtilities.invokeLater) -Random password generation uses java.util.Random
+   Output:
+![image](https://github.com/user-attachments/assets/f746f09d-8b33-467d-a37b-a710b0f5abf9)
